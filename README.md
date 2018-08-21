@@ -23,3 +23,12 @@ npm install
 
 # Run
 nodemon server.js
+
+Do this precommit
+# npm run lint (code linter)
+
+Recomended
+# use vs Code Editor
+
+dependencies
+#prettier- code formatter(for formatOnSave)
