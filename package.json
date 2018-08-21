@@ -1,7 +1,7 @@
 {
-  "name": "mern",
+  "name": "node-starter",
   "version": "1.0.0",
-  "description": "The starter kit for MERNSTACK",
+  "description": "The starter kit for nodeJS",
   "main": "server.js",
   "author": "GURURAJ MOGER",
   "license": "ISC",
