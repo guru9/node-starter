@@ -1,0 +1,35 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "The starter kit for MERNSTACK",
+  "main": "server.js",
+  "author": "GURURAJ MOGER",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "lint": "eslint ./server --fix"
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-config-standard-react": "^6.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-react": "^7.10.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "concurrently": "^3.6.1",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.5",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^10.4.0"
+  }
+}
