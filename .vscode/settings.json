@@ -6,9 +6,9 @@
     "search.exclude": {
         "out": true //set this to false to include "out" folder in search results
     },
-    //Set the default
+    //set the default
     "editor.formatOnSave": false,
-    //Enable per-language
+    //enable per-language
     "[javascript]": {
         "editor.formatOnSave": true
     },
