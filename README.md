@@ -24,8 +24,8 @@ or connect to your localhost
 # Run
 *nodemon server.js*
 
-###Recomended
+### Recomended
 #### use vs Code Editor
 
-###dependencies
-####prettier- code formatter(for formatOnSave)
+### dependencies
+#### prettier- code formatter(for formatOnSave)
