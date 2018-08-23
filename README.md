@@ -19,16 +19,13 @@ or connect to your localhost
 
 ## 2) Installation
 
-npm install
+*npm install*
 
 # Run
-nodemon server.js
+*nodemon server.js*
 
-Do this precommit
-# npm run lint (code linter)
+###Recomended
+#### use vs Code Editor
 
-Recomended
-# use vs Code Editor
-
-dependencies
-#prettier- code formatter(for formatOnSave)
+###dependencies
+####prettier- code formatter(for formatOnSave)
